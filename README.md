@@ -28,6 +28,7 @@ Inspired by Michael Krakovskiy (@deadprogrammer) tweet - https://twitter.com/dea
 - Veritasium - https://www.youtube.com/user/1veritasium/featured
 - Minute Physics - https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg
 - Mark Rober - https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg
+- The King of Random - https://www.youtube.com/user/01032010814/featured
 
 ## Maths
 - 3Blue1Brown - https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
