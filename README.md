@@ -12,17 +12,23 @@ Inspired by Michael Krakovskiy (@deadprogrammer) tweet - https://twitter.com/dea
 
 ## Technology
 
+## Maths
+- 3Blue1Brown - https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+
 ## Music
 
 ## Cooking
 
 ## Funny
+- Jay Foreman - https://www.youtube.com/channel/UCbbQalJ4OaC0oQ0AqRaOJ9g
 
 ## Free Movies / TV Shows (may not work on all regions)
 
-
+## Uncategorized (need to move into a category)
 - Click Spring - https://www.youtube.com/channel/UCworsKCR-Sx6R6-BnIjS2MA
 - Daily Dose of Internet - https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw
 - Steve Mould - https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A
-- 3Blue1Brown - https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+- LindyBeige - https://www.youtube.com/user/lindybeige
+- Regular Cars - https://www.youtube.com/user/RegularCars
+- Internet Comment Etiquette - https://www.youtube.com/user/commentiquette
 
