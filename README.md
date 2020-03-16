@@ -18,6 +18,8 @@ Inspired by Michael Krakovskiy (@deadprogrammer) tweet - https://twitter.com/dea
 ## Music
 
 ## Cooking
+- You Suck at Cooking - https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w
+- Binging with Babish - https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw
 
 ## Funny
 - Jay Foreman - https://www.youtube.com/channel/UCbbQalJ4OaC0oQ0AqRaOJ9g
