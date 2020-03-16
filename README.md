@@ -10,6 +10,9 @@ Inspired by Michael Krakovskiy (@deadprogrammer) tweet - https://twitter.com/dea
 ## Geography
 - Geography Now - https://www.youtube.com/user/GeographyNow
 
+## Painting
+- Bob Ross - https://www.youtube.com/channel/UCxcnsr1R5Ge_fbTu5ajt8DQ
+
 ## Technology
 - TechMoan - https://www.youtube.com/user/Techmoan
 - Technology Connections - https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q
