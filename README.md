@@ -48,6 +48,11 @@ Inspired by Michael Krakovskiy (@deadprogrammer) tweet - https://twitter.com/dea
 - Brett Domino - https://www.youtube.com/channel/UCKo3gUgQTxxOCjljr9Bgh_w
 
 ## Free Movies / TV Shows (may not work on all regions)
+- US - Hackers - https://www.youtube.com/watch?v=5T_CqqjOPDc
+- US - Wargames - https://www.youtube.com/watch?v=HNLQ-O-Qx3Y
+- US - Ghost in the Shell - https://www.youtube.com/watch?v=iHil4Y4r3Wk
+- US - Ghost in the Shell 2.0 - https://www.youtube.com/watch?v=qb_xj0Sc7Fc
+- US - Citizenfour - https://www.youtube.com/watch?v=NRzDsxUOm4M
 
 ## Misc
 - The Modern Rougue - https://www.youtube.com/channel/UC42VsoDtra5hMiXZSsD6eGg
