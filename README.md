@@ -25,6 +25,8 @@ Inspired by Michael Krakovskiy (@deadprogrammer) tweet - https://twitter.com/dea
 - NileRed - https://www.youtube.com/channel/UCFhXFikryT4aFcLkLw2LBLA
 - PeriodicVideos - https://www.youtube.com/user/periodicvideos
 - Journey to the Microcosmos - https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g
+- Veritasium - https://www.youtube.com/user/1veritasium/featured
+- Minute Physics - https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg
 
 ## Maths
 - 3Blue1Brown - https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
