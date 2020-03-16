@@ -1,4 +1,5 @@
-# youtube-channels-to-binge
+# Binge Worthy YouTube Channels
+
 A list of YouTube channels worth watching. All topics.
 
 Inspired by Michael Krakovskiy (@deadprogrammer) tweet - https://twitter.com/deadprogrammer/status/1238954568274399238 
